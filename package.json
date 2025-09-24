@@ -2,15 +2,12 @@
   "name": "canest_hompage",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://your-github-username.github.io/your-repo-name",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "framer-motion": "^12.23.20",
