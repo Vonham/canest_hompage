@@ -1,0 +1,40 @@
+{
+  "companyName": "CareNest",
+  "nav": {
+    "about": "Philosophy",
+    "services": "Technology"
+  },
+  "hero": {
+    "title": "The best healthcare is invisible.",
+    "subtitle": "CareNest hides complex technology behind the simplicity of your daily life. Powerful, because you don't notice it."
+  },
+  "about": {
+    "title": "Why CareNest.",
+    "content": "We don't focus on healthcare. We focus on life. The best technology is complete when you forget it's there. So you can focus on the people you love, CareNest works silently to keep you healthy. This is our promise. This is why we exist."
+  },
+  "services": {
+    "title": "The Principles of Simplicity.",
+    "content": "Our technology follows three principles: It must be intuitive. It must be integrated. And it must be predictive.",
+    "service_list": [
+      {
+        "title": "Continuous Monitoring",
+        "description": "Intelligent sensors detect and record your vital signs in real-time. No complex setup. Just live your life. That's enough."
+      },
+      {
+        "title": "A Unified Platform",
+        "description": "All your data, in one simple app. Hardware and software, working in perfect harmony to deliver a single experience."
+      },
+      {
+        "title": "Predictive Guidance",
+        "description": "We go beyond data. We provide gentle nudges and actionable insights for healthier habits. Your smartest health partner."
+      },
+      {
+        "title": "Connected to Your Doctor",
+        "description": "Effortlessly share your progress with your physician when needed. The right information, at the most critical moment."
+      }
+    ]
+  },
+  "footer": {
+    "copy": "© 2025 CareNest Inc. All rights reserved."
+  }
+}
